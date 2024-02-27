@@ -5,16 +5,19 @@ A responsive website project was developed.
 # Used technologies
 
 - HTML
+- BOOTSTRAP
 - CSS
 
 # Screenshots
 
 ![](1.jpg)
+![](2.jpg)
+![](3.jpg)
 
 # Videos
 
-![](HTML_CSS_Amazon_Clone.mp4)
+![](NaturePoject-Bootstrap.mp4)
 
 # GIF
 
-![](HTML_CSS_Amazon_Clone.gif)
+![](NaturePoject-Bootstrap.gif)
