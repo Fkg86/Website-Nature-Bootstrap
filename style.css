@@ -1,0 +1,22 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.main-content{
+    flex: 1;
+}
+.carausel-item {
+  height: 500px;
+}
+.car-img {
+  height: 100%;
+}
+.container a{
+    text-decoration: none;
+    color: gray;
+}
+.container a:hover{
+    color: black;
+    text-decoration: underline;
+}
